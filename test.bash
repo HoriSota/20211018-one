@@ -1,6 +1,9 @@
 #!/usr/bin/bash
 
 echo test
-echo 111
-echo hanakuso
+echo 222
+echo mekuso
+
+
+
 
